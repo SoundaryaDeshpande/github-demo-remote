@@ -6,7 +6,7 @@ def sub(x,y):
 	return(x-y)    #remote
 #multiplication implementation
 def mul(x,y):
-	pass
+	return(x*y)     #remote
 #division implementation
 def div(x,y):
 	pass
